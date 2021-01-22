@@ -7,9 +7,11 @@
 
 > - Open/Closed Principle. You can introduce new subscriber classes without having to change the publisher’s code (and vice versa if there’s a publisher interface).
 > - You can establish relations between objects at runtime.
+>   -- <cite>[Refactoring.Guru][1]</cite>
 
 # Cons
 
 > - Subscribers are notified in random order.
+>   -- <cite>[Refactoring.Guru][1]</cite>
 
 [1]: https://refactoring.guru/design-patterns/observer
