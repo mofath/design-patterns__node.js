@@ -16,7 +16,7 @@ Keep your changes consistent with the rest of the project's code, naming convent
 
 Patterns are grouped into three directories based on their category. Each pattern is put in subdirectory with index file with testing, and README.md to get an overview about the pattern.
 
-### Creational
+### Creational Patterns
 
 - [Builder](https://github.com/mofath/design-patterns--node.js/tree/master/01%20creational%20patterns/Builder)
 - [Factory](https://github.com/mofath/design-patterns--node.js/tree/master/01%20creational%20patterns/Factory)
