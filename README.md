@@ -1,6 +1,6 @@
 # Introduction
 
-This repository can be used to learn design patterns as well as writing better Node.js code. It contains a collection of some classic GoF design patterns implemented in Javascript using the ES6 classes with Node.js APIs.
+This repository can be used to learn design patterns as well as writing better Node.js code. It contains a collection of some classic GoF design patterns implemented in JavaScript using the ES6 classes with Node.js APIs.
 
 Contribution is appreciated and more than welcome, adjust README.md of existing pattrn, or improve examples or add new pattern. Just make a fork, make your change and submit a pull request.
 
